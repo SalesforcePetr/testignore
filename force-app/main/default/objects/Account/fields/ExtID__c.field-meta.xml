@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>ExtID__c</fullName>
+    <caseSensitive>false</caseSensitive>
+    <description>External Identifier</description>
+    <externalId>true</externalId>
+    <label>Ext ID</label>
+    <length>100</length>
+    <required>false</required>
+    <securityClassification>Confidential</securityClassification>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Text</type>
+    <unique>true</unique>
+</CustomField>
